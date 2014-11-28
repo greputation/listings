@@ -1,0 +1,30 @@
+{
+  "company_name": "TEXT",
+  "company_logo": "URL",
+  "company_detials": {
+    "homepage": "URL",
+		"angellist": "URL",
+    "chrunchbase": "URL",
+    "twitter": "URL",
+		"organisations_github": "URL"
+  },
+  "jobsite_listing": "URL",
+  "job_title": "TEXT",
+  "job_city": "TEXT",
+  "job_country": "TEXT",
+  "number_of_open_positions": INT,
+	"remote_ok": BINARY,
+	"one_liner_description_of_team": "TEXT",
+  "team_values": {
+    "value1": "TEXT",
+    "value2": "TEXT",
+    "value3": "TEXT"
+  },
+  "core_tech": {
+    "tech1": "TEXT",
+    "tech2": "TEXT",
+    "tech3": "TEXT"
+  },
+  "contact_email": "EMAIL",
+  "expires_on": "yyyy-mm-dd"
+}
