@@ -1,0 +1,30 @@
+{
+  "company_name": "My Company",
+  "company_logo": "https://dl.dropboxusercontent.com/u/10164/Mycompanylogo.png",
+  "company_detials": {
+    "homepage": "http://mycompany.com",
+		"angellist": "http://angel.co/mycompany",
+    "chrunchbase": "http://crunchbase.com/company/mycompany",
+    "twitter": "https://twitter.com/mycompany",
+		"organisations_github": "https://github.com/mycompany"
+  },
+  "jobsite_listing": "http://jobsitelisting.com/mycompany/mylisting",
+  "job_title": "Lead Systems Engineer",
+  "job_city": "Dublin",
+  "job_country": "Ireland",
+  "number_of_open_positions": 1,
+	"remote_ok": 1,
+	"one_liner_description_of_team": "We are a close knit team that values being responsible to each other, fostering a collaborative environment, and growing a diverse team.",
+  "team_values": {
+    "value1": "Respect for each other and our customers",
+    "value2": "Always be learning",
+    "value3": "Never say no. Say yes, but."
+  },
+  "core_tech": {
+    "tech1": "Node",
+    "tech2": "Couch",
+    "tech3": "AWS"
+  },
+  "contact_email": "mycompany@mycompany.com",
+  "expires_on": "2014-12-31"
+}
